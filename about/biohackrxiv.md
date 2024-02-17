@@ -4,7 +4,7 @@ subtitle:
 description: How participants of BioHackathon Europe can publish the hackathon outputs at BioHackrXiv.
 layout: page
 show_sidebar: false
-hero_image: /img/about-hero.webp
+hero_image: /img/heroes/hero-2021-crowd.webp
 hero_darken: true
 ---
 

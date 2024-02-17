@@ -4,7 +4,7 @@ subtitle:
 description: Intellectual Property disclaimer for BioHackathon Europe 2024.
 layout: page
 show_sidebar: false
-hero_image: /img/about-hero.webp
+hero_image: /img/heroes/hero-2021-crowd.webp
 hero_darken: true
 ---
 
