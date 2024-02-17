@@ -1,0 +1,172 @@
+---
+---
+// Override the Bulma variables before importing main.scss.
+$primary: #405839;
+$warning: #f2b90b;
+$blue: #2965d3;
+$button-background-color: $warning;
+$button-padding-horizontal: 1rem;
+$button-border-width: 0;
+
+// Import Main CSS file from theme.
+@import "main";
+
+// Darken the text.
+body {
+    color: $grey-darker;
+    font-size: 1.1rem;
+}
+
+// Make <h3>s smaller as by default they are almost
+// the same size as <h2>s. 
+.content h3 {
+    font-size: 1.3rem;
+    margin: 0 0 .5rem;
+}
+
+// Close the spacing between <h3> and <ul>
+.content h3 + ul {
+    margin-top: 0;
+}
+
+// Tweak the navbar img and navbar to be bigger.
+// This allows the logo to be bigger.
+.navbar-item img {
+    max-height: 2.5rem;
+}
+
+@media screen and (min-width: 1024px) {
+    .navbar {
+        min-height: 4rem;
+    }
+}
+
+// Adjust hamburger size to match new navbar height.
+.navbar-burger {
+    height: 3.5rem;
+    width: 3.5rem;
+}
+
+// Darken the hero image 
+// Changing the $hero-darken variable doesn't seem to work.
+// Notice the theme uses inline styles for the hero image.
+.hero-darken {
+    background-color: rgba(20, 20, 20, 0.8);
+}
+
+// Centre-align text in the banners.
+.hero-body {
+    text-align: center;
+    // Styles for a link in the hero subtitle.
+    .subtitle a {
+      display: inline-block;
+      margin-top: 1.25rem;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+}
+
+// Add more space between the banner title and subtitle. 
+.title:not(.is-spaced)+.subtitle {
+    margin-top: -.25rem;
+}
+
+// Set default link styles for content.
+.section a {
+    text-decoration: underline;
+    text-decoration-color: $blue;
+    text-decoration-thickness: from-font;
+    text-underline-offset: 0.15em;
+    transition: color .3s;
+    &:hover {
+        text-decoration-thickness: .1em;
+        color: $blue;
+    }
+    &.button {
+        text-decoration: none;
+    }
+    &.button:hover {
+        background-color: lighten($warning, 20%);
+    }
+}
+
+// Give more space to list items.
+.section li {
+    padding-bottom: .2em;
+    &::marker {
+        color: $primary;
+    }
+}
+
+// Close the space between consecutive lists.
+.section ul ul, .section ul ul ul {
+    margin-top: 0;
+}
+
+// Make the max width narrower to stop text lines being too long.
+// This isn't a problem if you use the sidebar in the theme.
+@media screen and (min-width: 1408px) {
+.container:not(.is-max-desktop):not(.is-max-widescreen) {
+    max-width: 1024px;
+}
+}
+
+// New styles for the footer (the default footer include is overriden).
+.footer {
+    padding-top: 2rem;
+    li {
+      display: inline-block;
+      padding: 0 .5rem;
+    }
+    a {
+      color: $white;
+        &:hover {
+            text-decoration: underline;
+        }
+      img {
+        opacity: 0.3;
+        transition: opacity .4s;
+        &:hover {
+            opacity: 1;
+        }
+      }
+    }
+}
+
+// A style for adding a background across the full width of the page.
+.stripe {
+  position: relative;
+}
+
+.stripe:before {
+  content:"";
+  background-color: $grey-lighter;
+  position: absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  width: 500%;
+  margin-left: -50%;
+  transform: translateX(-50%);
+  z-index: -1;
+}
+
+// Bulma doesn't seem to have a simple border class.
+.has-border {
+  border: 1px solid $grey-lightest;
+}
+
+// Remove default italics for <figcaption>
+.content figure figcaption {
+  font-style: normal;
+}
+
+// Overriding table variables doesn't seem to work.
+.content .table {
+  border-bottom: 1px solid $grey-lighter;
+  th, td {
+    padding: .75em;
+  }
+}

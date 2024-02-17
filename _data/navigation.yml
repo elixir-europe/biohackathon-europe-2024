@@ -1,0 +1,20 @@
+- name: Registration
+  link: /registration/
+- name: Projects
+  link: /projects/
+- name: Programme
+  link: /programme/
+- name: Venue
+  link: /venue/
+- name: About
+  link: /about/
+  dropdown:
+    - name: Committees
+      link: /about/committees/
+    - name: BioHackrXiv
+      link: /about/biohackrxiv/
+    - name: IP disclaimer
+      link: /about/ip-disclaimer/
+    - name: Contact
+      link: /about/contact/
+

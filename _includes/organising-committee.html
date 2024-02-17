@@ -1,0 +1,12 @@
+{% if site.data.organising_committee %}
+<div class="columns is-multiline">
+    {% for member in site.data.organising_committee %}
+    <div class="column is-one-quarter">
+    <figure class="box">
+        <img src="{{ site.baseurl }}/img/committees/{{ member.picture }}" alt="{{ member.name }}" width="200" class="has-border"/>
+        <figcaption>{{ member.name }}</figcaption>
+    </figure>
+    </div>
+    {% endfor %}
+</div>
+{% endif %}

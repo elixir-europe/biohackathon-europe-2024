@@ -1,0 +1,17 @@
+{% if site.data.programme_committee %}
+<table class="table is-striped mt-5">
+<tr class="has-background-grey-darker">
+<th class="has-text-white">Name</th>
+<th class="has-text-white">Affiliation</th>
+</tr>
+{% for member in site.data.programme_committee %}
+<tr>
+<td class="has-text-weight-bold">{{ member.name }}</td>
+<td>
+{% if member.link %}<a href="{{ member.link }}">{% endif %}
+{{ member.affiliation }}
+{% if member.link %}</a>{% endif %}
+</td>
+</tr>
+{% endfor %}
+{% endif %}
