@@ -4,7 +4,7 @@ subtitle: Campus Belloch, Barcelona
 description: The 2024 BioHackathon Europe will be held at Campus Belloch, near Barcelona.
 layout: page
 show_sidebar: false
-hero_image: /img/venue-hero.webp
+hero_image: /img/heroes/hero-venue.webp
 hero_darken: true
 ---
 
