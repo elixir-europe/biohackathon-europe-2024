@@ -12,4 +12,4 @@ hero_darken: true
 <biohackathon-europe@elixir-europe.org>
 
 ## Logistics, travel and accommodation
-Zuzana Clarke (<zuzana.clarke@elixir-europe.org>)
+Chloè LLewellyn (<chloe.llewellyn@elixir-europe.org>)

@@ -159,8 +159,12 @@ body {
 }
 
 // Remove default italics for <figcaption>
-.content figure figcaption {
-  font-style: normal;
+// Make figure boxes same height.
+.content figure {
+    height: 100%;
+    figcaption {
+    font-style: normal;
+    }
 }
 
 // Overriding table variables doesn't seem to work.
