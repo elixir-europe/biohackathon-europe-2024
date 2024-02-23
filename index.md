@@ -1,7 +1,7 @@
 ---
 title: BioHackathon Europe
 subtitle: 4 November - 8 November 2024<br>Barcelona<br><a href="https://twitter.com/hashtag/BioHackEU24" class="is-size-6 ">#BioHackEU24</a></span>
-description: Find out about the 2024 BioHackathon Europe, where hackers get togther to make life science research easier.
+description: Find out about the 2024 BioHackathon Europe, where hackers get together to make life science research easier.
 layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2023-group-shot.webp
