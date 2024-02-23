@@ -22,7 +22,7 @@ title: BioHackathon Europe 2024
 email: biohackathon-europe@elixir-europe.org
 description: >- # this means to ignore newlines until "baseurl:"
   This year the BioHackathon will take place near Barcelona, 4-8 November 2024.
-baseurl: "/biohackathon-europe-2024" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://biohackathon-europe.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: https://twitter.com/hashtag/BioHackEU24
 github_username:  https://github.com/elixir-europe/biohackathon-europe-2024
