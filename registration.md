@@ -8,11 +8,9 @@ hero_image: /img/heroes/hero-flipchart-hall.webp
 hero_darken: true
 ---
 
-Registration for BioHackathon Europe 2024 will open in May for face-to-face (F2F) and virtual attendance. Please note that while registration is free, F2F attendees will need to cover their own travel cost and accommodation (see the [Accommodation page](/about/accommodation))
+Registration for BioHackathon Europe 2024 will open in May for face-to-face (F2F) and virtual attendance. Please note that while registration is free, F2F attendees will need to cover their own travel, food and accommodation costs. See the [Venue page](/venue/) for food and accommodation prices.
 
 BioHackathon Europe has limited space for face-to-face participation. The registration is based on a first-come, first-served basis.
-
-Registration for the BioHackathon is free, but you will have to pay your own travel, food and accommodation. See the [Venue page](/venue/) for food and accommodation prices.
 
 ## Who can register?
 Although the event is organised and funded by [ELIXIR Europe](https://elixir-europe.org), participants from industry and SMEs, and from countries and organisations outside ELIXIR, are welcome to register. 
