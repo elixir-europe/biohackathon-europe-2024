@@ -2,9 +2,10 @@
 ---
 // Override the Bulma variables before importing main.scss.
 $primary: #405839;
-$warning: #f2b90b;
+// Make default yellow the BioHackathon yellow.
+$yellow: #f2b90b;
 $blue: #2965d3;
-$button-background-color: $warning;
+$button-background-color: $yellow;
 $button-padding-horizontal: 1rem;
 $button-border-width: 0;
 
@@ -15,6 +16,20 @@ $button-border-width: 0;
 body {
     color: $grey-darker;
     font-size: 1.1rem;
+}
+
+// The theme does not contain a "Skip to content link".
+.skip-link a {
+  position: absolute;
+  left: -2000px;
+  padding: 10px;
+  background-color: $yellow;
+    top: 0;
+    z-index: 100;
+    color: $black;
+  &:focus {
+    left: 35%;
+  }
 }
 
 // Make <h3>s smaller as by default they are almost
@@ -83,13 +98,20 @@ body {
         text-decoration-thickness: .1em;
         color: $blue;
     }
-    &.button {
-        text-decoration: none;
-    }
+}
+
+.section a.button, .hero-body a.button {
+    text-decoration: none;
     &.button:hover {
-        background-color: lighten($warning, 20%);
+        background-color: lighten($yellow, 20%);
+        color: $grey-dark;
+    }
+    &.button:focus {
+
+        border-color: $primary;
     }
 }
+
 
 // Give more space to list items.
 .section li {
