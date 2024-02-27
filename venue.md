@@ -29,7 +29,7 @@ Accommodation is available in single rooms. All prices include VAT and this cost
 
 | Room arrangement    | Price for 4 nights per person |
 | -------- | ------- |
-| Single room	  | 670.80 EUR (including VAT)  |
+| Single room	  | 658.80 EUR (Including VAT) |
 
 ELIXIR will pay for the catering and drinks, meeting room hire and any social activity during the event. 
 
