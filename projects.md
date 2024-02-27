@@ -28,3 +28,6 @@ Therefore, **we encourage new Project Leads to participate and welcome collabora
 After the deadline, our BioHackathon Programme Committee will review your submissions. We aim to inform all co-leads on the status of their project submission in May 2024. In the case of similar submissions, we might propose your project to be merged with another.
 
 For any enquiries please contact <biohackathon-europe@elixir-europe.org>. 
+
+## Previous projects
+If you would like to browse projects from previous BioHackathons, go to the [About page](/about/). This contains links to the past BioHackathons websites, and to the GitHub repositories of each BioHackathon. The GitHub repositories  contain descriptions of all the projects in that year.

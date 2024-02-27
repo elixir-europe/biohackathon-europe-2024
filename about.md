@@ -19,7 +19,7 @@ The first BioHackathon Europe took place in Paris in 2018. It was based on the B
 ## Previous BioHackathons
 You can look at previous hackathons to get the idea of the type of projects done. The GitHub repos contain detailed descriptions of each project. You can also access the description of a project from the website Projects page.
 
-*   **BH2023:** [Website](https://biohackathon-europe.org); [GitHub repo](https://github.com/elixir-europe/biohackathon-projects-2023); [News story](https://elixir-europe.org/news/biohack2023); [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720312705782)
+*   **BH2023:** [Website](https://2023.biohackathon-europe.org); [GitHub repo](https://github.com/elixir-europe/biohackathon-projects-2023); [News story](https://elixir-europe.org/news/biohack2023); [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720312705782)
 *   **BH2022:** [Website](https://2022.biohackathon-europe.org); [GitHub repo](https://github.com/elixir-europe/biohackathon-projects-2022); [News story](https://elixir-europe.org/news/biohack2022); [Photos](https://www.flickr.com/photos/elixir-europe/albums/72177720303911368)
 *   **BH2021:** [Website](https://2021.biohackathon-europe.org); [GitHub repo](https://github.com/elixir-europe/BioHackathon-projects-2021); [News story](https://elixir-europe.org/news/hybrid-biohackathon); [Photos](https://www.flickr.com/photos/elixir-europe/albums/72157720142412708)
 *   **BH2020:** [Website](https://2020.biohackathon-europe.org/); [GitHub repo](https://github.com/elixir-europe/BioHackathon-projects-2020); [News story](https://elixir-europe.org/news/first-virtual-biohackathon-europe-success)
