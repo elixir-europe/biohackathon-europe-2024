@@ -10,7 +10,7 @@ hero_link: /projects/
 hero_link_text: Call for project proposals now open
 ---
 
-[![ELIXIR logo](/img/elixir-logo.svg){: .is-pulled-right width="170"}](https://elixir-europe.org/)
+[![ELIXIR logo](/img/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
 
 BioHackathon Europe is an annual event that brings together life scientists from around the world. It is organised by [ELIXIR Europe](https://elixir-europe.org/), and offers an intense week of hacking, with over 160 participants working on diverse and exciting projects. **The goal is to create code that addresses challenges in bioinformatics research.** 
 
@@ -25,9 +25,9 @@ The 'markdown="1"' attribute on a <div> doesn't seem to work here.
 Maybe just include them (but less intuitive to edit that way).
 -->
 
-![A group discussing the Bioschemas project](/img/square-tile-meeting-herve.webp){: .column .is-one-third}
-![Three people discussing at a table](/img/square-tile-chat-toshiaki.webp){: .column .is-one-third}
-![A group playing table football](/img/square-tile-table-football.webp){: .column .is-one-third}
+![A group discussing the Bioschemas project](/img/square-tile-meeting-herve.webp){: .column .is-one-third .my-4}
+![Three people discussing at a table](/img/square-tile-chat-toshiaki.webp){: .column .is-one-third .my-4}
+![A group playing table football](/img/square-tile-table-football.webp){: .column .is-one-third .my-4}
 {: .columns .stripe .my-6}
 
 ## Scope
@@ -38,9 +38,9 @@ BioHackathon activities are driven by practical sessions where people gather, di
   * Engage technical people in the bioinformatics community inside and outside ELIXIR to work together on topics of common interest aligned to ELIXIR activities.
   * Strengthen the interactions with ELIXIR Platforms, Communities and Focus Groups to establish and reinforce collaborations through hands-on programming activities.
   
-![Three people chatting in front of a laptop](/img/square-tile-table-chat.webp){: .column .is-one-third}
-![Tables of hackers in the main hall](/img/square-tile-barcelona-hall.webp){: .column .is-one-third}
-![Six hackers discussing their project](/img/square-tile-table-working.webp){: .column .is-one-third}
+![Three people chatting in front of a laptop](/img/square-tile-table-chat.webp){: .column .is-one-third .my-4}
+![Tables of hackers in the main hall](/img/square-tile-barcelona-hall.webp){: .column .is-one-third .my-4}
+![Six hackers discussing their project](/img/square-tile-table-working.webp){: .column .is-one-third .my-4}
 {: .columns .stripe .my-6}
 
 ## Benefits

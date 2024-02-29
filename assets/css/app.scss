@@ -12,10 +12,24 @@ $button-border-width: 0;
 // Import Main CSS file from theme.
 @import "main";
 
-// Darken the text.
+// Need to set a height on html and body to
+// enable a sticky footer.
+html {
+  height: 100%;
+}
+
+// Darken the text, enable flexbox-based sticky footer.
 body {
     color: $grey-darker;
     font-size: 1.1rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+// Added wrapper element to enable a sticky footer
+.wrapper {
+  flex: 1 0 auto;
 }
 
 // The theme does not contain a "Skip to content link".
@@ -136,6 +150,7 @@ body {
 
 // New styles for the footer (the default footer include is overriden).
 .footer {
+    flex-shrink: 0;
     padding-top: 2rem;
     li {
       display: inline-block;
