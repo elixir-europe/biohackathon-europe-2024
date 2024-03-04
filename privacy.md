@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: Website privacy
 subtitle: 
 description: The privacy statement of the BioHackathon Europe website.
 layout: page
