@@ -1,4 +1,7 @@
-<figure class="image is-16by9 my-6"> 
+
+<div class="block has-background-light p-4">
+<p class="has-text-weight-bold my-2">Please be aware that YouTube videos load cookies when you start playing them. Unfortunately we cannot stop this. See the <a href="/privacy/">website privacy statement</a>.</p>
+<figure class="image is-16by9 mt-4"> 
     <iframe class="has-ratio" 
         src="https://www.youtube-nocookie.com/embed/{{ include.video }}?start={{ include.time | default: 0 }}&showinfo=0" 
         frameborder="0" 
@@ -6,3 +9,4 @@
         >
     </iframe>
 </figure>
+</div>
