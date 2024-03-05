@@ -66,4 +66,4 @@ Parc de Belloch, C-251, Km 5,6, 08430 La Roca del Vallès 08430 Barcelona.
    * Cardedeu train station: +34 938 46 01 01
    * Granollers train station: +34 938 70 30 28
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2982.2770787316304!2d2.3365468154332802!3d41.62814197924271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4c95ee837dc85%3A0x3fc97318fae2bb8a!2sBelloch%20Campus!5e0!3m2!1sen!2suk!4v1677059061828!5m2!1sen!2suk" width="600" height="450" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="mt-3"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2982.2770787316304!2d2.3365468154332802!3d41.62814197924271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4c95ee837dc85%3A0x3fc97318fae2bb8a!2sBelloch%20Campus!5e0!3m2!1sen!2suk!4v1677059061828!5m2!1sen!2suk" width="600" height="450" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="mt-3" title="A map showing the location of Campus Belloch"></iframe>
