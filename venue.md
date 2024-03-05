@@ -13,9 +13,9 @@ Campus Belloch is just 30 minutes from Barcelona, yet you will find yourself sur
 
 Surrounded by forests and mountains, it is only natural that the preservation of the environment is of special importance to the Campus. The minimalist architecture of the Campus works in harmony with its surroundings and has been designed with sustainability as a top priority.
 
-![Image](/img/venue-lounge.webp){: .column .is-one-third}
-![Image](/img/venue-meeting-room.webp){: .column .is-one-third}
-![Image](/img/venue-dinner.webp){: .column .is-one-third}
+![A lounge in Campus Belloch](/img/venue-lounge.webp){: .column .is-one-third}
+![A meeting room at Campus Belloch](/img/venue-meeting-room.webp){: .column .is-one-third}
+![Dishes of food at Campus Belloch](/img/venue-dinner.webp){: .column .is-one-third}
 {: .columns .mt-4}
 
 ## Entertainment activities
