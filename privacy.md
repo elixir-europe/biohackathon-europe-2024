@@ -47,9 +47,11 @@ The YouTube videos embedded in this site are embedded using [privacy-enhanced mo
 Your anonymised data will be stored by ELIXIR in the form of generated graphs and aggregated reports indefinitely.
 
 ## How to contact us
-If you wish to contact the data controller regarding any other data protection related matters, you can contact us via email (<data-protection@elixir-europe.org>) or by sending a letter to:<br>
+If you wish to contact the data controller regarding any other data protection related matters, you can contact us via email (<data-protection@elixir-europe.org>) or by sending a letter to:
+
 ELIXIR Hub<br>
 Wellcome Genome Campus<br>
 Hinxton<br>
-Cambridgeshire CB10 1SD, UK
+Cambridgeshire CB10 1SD<br>
+UK
 
