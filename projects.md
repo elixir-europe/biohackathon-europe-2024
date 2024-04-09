@@ -7,7 +7,7 @@ hero_image: /img/heroes/hero-2023-hall.webp
 hero_darken: true
 ---
 
-**The call for project proposals is now closed.**
+**The deadline for project submissions has now closed, and this year's projects will be announced in mid-May.**
 
 This year each project can have a maximum of two project leads, who will design and submit the project. At least one project lead and another project member (co-lead where possible) should attend the event in person. 
 
