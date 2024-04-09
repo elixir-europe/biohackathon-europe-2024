@@ -12,7 +12,7 @@ We are now opening the project submissions for 2024!
 
 This year each project can have a maximum of two project leads, who will design and submit the project. At least one project lead and another project member (co-lead where possible) should attend the event in person. 
 
-** The call for project proposals is now closed. **
+**The call for project proposals is now closed.**
 
 ## General guidelines and instructions
 The Oxford Abstracts submission form is descriptive and will guide your answers, but you will need to address three main areas:
