@@ -1,6 +1,5 @@
 ---
 title: Projects
-subtitle: Call for project proposals is now open!
 description: The projects that will be worked on during BioHackathon Europe 2024.
 layout: page
 show_sidebar: false
