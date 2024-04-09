@@ -10,9 +10,9 @@ hero_darken: true
 
 We are now opening the project submissions for 2024! 
 
-This year each project can have a maximum of two project leads, who will design and submit the project. At least one project lead and another project member (co-lead where possible) should attend the event in person. **The deadline for project submissions is 8 April 2024 (next Monday) at 23:59 CEST.**
+This year each project can have a maximum of two project leads, who will design and submit the project. At least one project lead and another project member (co-lead where possible) should attend the event in person. 
 
-[Submit your project](https://app.oxfordabstracts.com/stages/34082/submitter){: .button .is-size-5 .is-inline-block .mt-2 .mb-5}
+** The call for project proposals is now closed. **
 
 ## General guidelines and instructions
 The Oxford Abstracts submission form is descriptive and will guide your answers, but you will need to address three main areas:
