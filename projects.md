@@ -15,7 +15,7 @@ hero_darken: true
   <table class="table is-striped mt-5">
     <thead>
       <tr class="has-background-grey-darker">
-        <th class="has-text-white" style="width: 17%;">Project number</th>
+        <th class="has-text-white">No.</th>
         <th class="has-text-white">Title</th>
       </tr>
     </thead>
