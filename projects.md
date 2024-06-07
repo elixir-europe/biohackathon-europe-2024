@@ -7,7 +7,7 @@ hero_image: /img/heroes/hero-2023-hall.webp
 hero_darken: true
 ---
 
-## 2024 HACKING PROJECTS
+## Hacking projects 2024 
 
 <p>You can also view a list of the projects in the <a href="https://github.com/elixir-europe/biohackathon-projects-2024">projects GitHub repository</a>.</p>
 
@@ -15,7 +15,7 @@ hero_darken: true
   <table class="table is-striped mt-5">
     <thead>
       <tr class="has-background-grey-darker">
-        <th class="has-text-white">Project Number</th>
+        <th class="has-text-white" style="width: 17%;">Project number</th>
         <th class="has-text-white">Title</th>
       </tr>
     </thead>
