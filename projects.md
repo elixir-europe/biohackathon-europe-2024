@@ -9,7 +9,7 @@ hero_darken: true
 
 ## Hacking projects 2024 
 
-<p>You can also view a list of the projects in the <a href="https://github.com/elixir-europe/biohackathon-projects-2024">projects GitHub repository</a>.</p>
+<p class="my-5">You can also view a list of the projects in the <a href="https://github.com/elixir-europe/biohackathon-projects-2024">projects GitHub repository</a>.</p>
 
 <section id="hacking-projects">
   <table class="table is-striped mt-5">
