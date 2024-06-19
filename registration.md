@@ -1,6 +1,6 @@
 ---
 title: Registration
-subtitle: Registration will open in June
+subtitle: Registration will open on 24 June
 description: When and how you can register for BioHackathon Europe 2024.
 layout: page
 show_sidebar: false
@@ -8,7 +8,9 @@ hero_image: /img/heroes/hero-flipchart-hall.webp
 hero_darken: true
 ---
 
-Registration for BioHackathon Europe 2024 will open in June for face-to-face (F2F) and virtual attendance. Please note that while registration is free, F2F attendees will need to cover their own travel, food and accommodation costs. See the [Venue page](/venue/) for food and accommodation prices.
+**Registration will open on Monday 24 June at 12:00 CEST.**
+
+Registration for BioHackathon Europe 2024 will open on 24 June for face-to-face (F2F) and virtual attendance. Please note that while registration is free, F2F attendees will need to cover their own travel, food and accommodation costs. See the [Venue page](/venue/) for food and accommodation prices.
 
 BioHackathon Europe has limited space for face-to-face participation. The registration is based on a first-come, first-served basis.
 
