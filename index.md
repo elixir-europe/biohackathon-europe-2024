@@ -6,6 +6,8 @@ layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2023-group-shot.webp
 hero_darken: true
+hero_link: /registration/
+hero_link_text: Registration opens on 24 June
 ---
 
 [![ELIXIR logo](/img/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
