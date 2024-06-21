@@ -27,6 +27,6 @@ All participants are required to stay for the whole duration of the meeting.
 The Biohackathon will adhere to the [ELIXIR code of Conduct](https://elixir-europe.org/events/code-of-conduct).
 
 ## Data protection
-The registration form gives you the opportunity to share your contact details with other attendees. If you agree to share your details (name, email, affiliation), these will be kept by the ELIXIR Hub and on EventBrite for two months after the event. After this time they will be deleted from both locations. 
+The registration form gives you the opportunity to share your contact details with other attendees. If you agree to share your details (name, email, affiliation), these will be kept by the ELIXIR Hub and on EventCase for two months after the event. After this time they will be deleted from both locations. 
 
 If you want the details to be removed earlier, or if you have any queries, please contact us at <biohackathon-europe@elixir-europe.org>.
