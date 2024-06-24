@@ -10,7 +10,7 @@ hero_darken: true
 
 ## Participant registration
 
-Registration for BioHackathon Europe 2024 is now open for face-to-face (F2F) and virtual attendance. Please note that while registration is free, F2F attendees will need to cover their own travel, food and accommodation costs. See the [Venue page](/venue/) for food and accommodation prices.
+Registration for BioHackathon Europe 2024 is open but face-to-face (F2F) attendance places are full. You can register either for the  waiting list or virtual participation. Please note that while registration is free, F2F attendees will need to cover their own travel, food and accommodation costs. See the [Venue page](/venue/) for food and accommodation prices.
 
 <div class="mt-4 side mr-4"><a href="https://elixir-events.eventscase.com/attendance/event/index/44145/EN" target="_blank" class="button special">Register for F2F attendance</a></div>
 <div class="mt-4 side mb-4"><a href="https://elixir-events.eventscase.com/attendance/event/index/44146/EN" target="_blank" class="button special">Register for virtual attendance</a></div>
