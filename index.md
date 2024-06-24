@@ -8,6 +8,7 @@ hero_image: /img/heroes/hero-2023-group-shot.webp
 hero_darken: true
 hero_link: /registration/
 hero_link_text: Registration is now open
+reg_text: F2F registration is now full but a waiting list is available
 ---
 
 [![ELIXIR logo](/img/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
