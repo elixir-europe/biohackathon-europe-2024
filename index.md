@@ -6,8 +6,8 @@ layout: page
 show_sidebar: false
 hero_image: /img/heroes/hero-2023-group-shot.webp
 hero_darken: true
-hero_link: /registration/
-hero_link_text: Registration is now open
+hero_link:
+hero_link_text:
 reg_text: F2F registration is now full but a waiting list is available
 ---
 
