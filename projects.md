@@ -128,10 +128,10 @@ hero_darken: true
         <td>27</td>
         <td><a href="https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/27.md">Integrating Bioconductor packages with the ELIXIR Research Software Ecosystem using EDAM</a></td>
       </tr>
-      <tr>
+      <!--<tr>
         <td>28</td>
         <td><a href="https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/28.md">Semantic Interoperability of Biomedical Data</a></td>
-      </tr>
+      </tr>-->
       <tr>
         <td>29</td>
         <td><a href="https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/29.md">ELIXIR FAIR Lesson Plan Handbook: advancing researchers’ & data stewards’ FAIR skills</a></td>
