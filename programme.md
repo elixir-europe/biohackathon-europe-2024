@@ -25,22 +25,22 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">10:00–12:30</td>
         <td>Arrival and registration</td>
-        <td>Restaurant - Raiz</td>
+        <td>Reception</td>
     </tr>
      <tr>
         <td class="has-text-weight-bold">12:30-13:30</td>
         <td>Lunch</td>
-        <td>Plenary - EarthWorks</td>
+        <td>Restaurant – Raiz</td>
     </tr>
      <tr>
         <td class="has-text-weight-bold">13:30-14:30</td>
-        <td>Opening and welcome</td>
-        <td>Chapel - Yggdrasil</td>
+        <td>Opening and welcome – flash presentation</td>
+        <td>Plenary – EarthWorks</td>
     </tr>
      <tr>
         <td class="has-text-weight-bold">14:30-15:00</td>
         <td>Project networking / Find your team</td>
-        <td>Breakout rooms</td>
+        <td>Chapel – Yggdrasil</td>
     </tr>
      <tr>
         <td class="has-text-weight-bold">15:00-15:30</td>
@@ -93,7 +93,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">13:30-13:45</td>
         <td>Group photo</td>
-        <td></td>
+        <td>TBC</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">13:45-15:30</td>
@@ -106,12 +106,12 @@ hero_darken: true
         <td></td>
     </tr>
     <tr>
-        <td class="has-text-weight-bold">16:00-18:00</td>
+        <td class="has-text-weight-bold">16:00-17:30</td>
         <td>Project reporting - goals and challenges</td>
         <td>Plenary - EarthWorks</td>
     </tr>
     <tr>
-        <td class="has-text-weight-bold">18:00-19:00</td>
+        <td class="has-text-weight-bold">17:30-19:00</td>
         <td>Leisure time</td>
         <td></td>
     </tr>
