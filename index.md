@@ -8,7 +8,7 @@ hero_image: /img/heroes/hero-2023-group-shot.webp
 hero_darken: true
 hero_link:
 hero_link_text:
-reg_text: F2F registration is now full but a waiting list is available
+reg_text: F2F registration is now full and online registration will close on Wednesday 30 October at 12:00 CET
 ---
 
 [![ELIXIR logo](/img/elixir-logo.svg){: .is-pulled-right .ml-5 .mb-5 width="170"}](https://elixir-europe.org/)
