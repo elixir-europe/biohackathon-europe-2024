@@ -14,8 +14,6 @@ hero_darken: true
 
 Please note that while registration is free, F2F attendees will need to cover their own travel, food and accommodation costs. See the [Venue page](/venue/) for food and accommodation prices.
 
-<div class="mt-4 side mb-4"><a href="https://elixir-events.eventscase.com/attendance/event/index/44146/EN" target="_blank" class="button special">Register for virtual attendance</a></div>
-
 
 BioHackathon Europe has limited space for face-to-face participation. The registration is based on a first-come, first-served basis.
 
