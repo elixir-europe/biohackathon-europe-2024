@@ -20,7 +20,7 @@ hero_darken: true
         <th class="">Room</th>
     </tr>
     <tr class="has-background-grey-darker">
-        <th class="has-text-white has-text-centered" colspan="3">Day 1 - Monday, 4 November 2024</th>
+        <th class="has-text-white has-text-centered" colspan="3">Day 1 – Monday, 4 November 2024</th>
     </tr>
     <tr>
         <td class="has-text-weight-bold">10:00–12:30</td>
@@ -60,7 +60,7 @@ hero_darken: true
      <tr>
         <td class="has-text-weight-bold">19:00 onwards</td>
         <td>Dinner</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr class="has-background-grey-darker">
         <th class="has-text-white has-text-centered" colspan="3">Day 2 - Tuesday, 5 November 2024</th>
@@ -68,7 +68,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">8:00-9:00</td>
         <td>Breakfast</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">9:00-10:30</td>
@@ -88,7 +88,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">12:30-13:30</td>
         <td>Lunch</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">13:30-13:45</td>
@@ -108,7 +108,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">16:00-17:30</td>
         <td>Project reporting - goals and challenges</td>
-        <td>Plenary - EarthWorks</td>
+        <td>Plenary – EarthWorks</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">17:30-19:00</td>
@@ -118,7 +118,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">19:00-20:30</td>
         <td>Dinner</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">20:30 onwards</td>
@@ -131,7 +131,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">8:00-9:00</td>
         <td>Breakfast</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">9:00-10:30</td>
@@ -151,7 +151,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">12:30-13:30</td>
         <td>Lunch</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">13:30-15:30</td>
@@ -176,7 +176,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">19:00-20:00</td>
         <td>Dinner</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">20:00 onwards</td>
@@ -189,7 +189,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">8:00-9:00</td>
         <td>Breakfast</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">9:00-10:30</td>
@@ -209,7 +209,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">12:30-13:30</td>
         <td>Lunch</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">13:30-15:30</td>
@@ -234,7 +234,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">19:00-20:30</td>
         <td>Dinner</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">20:30 onwards</td>
@@ -247,7 +247,7 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">8:00-9:00</td>
         <td>Breakfast</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">9:00-10:00</td>
@@ -262,12 +262,12 @@ hero_darken: true
     <tr>
         <td class="has-text-weight-bold">10:30-12:30</td>
         <td>Final project presentation and closing</td>
-        <td>Plenary - EarthWorks</td>
+        <td>Plenary – EarthWorks</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">12:30-14:00</td>
         <td>Lunch</td>
-        <td>Restaurant - Raiz</td>
+        <td>Restaurant – Raiz</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">14:00 onwards</td>
