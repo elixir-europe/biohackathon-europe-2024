@@ -28,12 +28,12 @@ hero_darken: true
         <td>Reception</td>
     </tr>
      <tr>
-        <td class="has-text-weight-bold">12:30-13:30</td>
+        <td class="has-text-weight-bold">12:30–13:30</td>
         <td>Lunch</td>
         <td>Restaurant – Raiz</td>
     </tr>
      <tr>
-        <td class="has-text-weight-bold">13:30-14:30</td>
+        <td class="has-text-weight-bold">13:30–14:30</td>
         <td>Opening and welcome – flash presentation</td>
         <td>Plenary – EarthWorks</td>
     </tr>
