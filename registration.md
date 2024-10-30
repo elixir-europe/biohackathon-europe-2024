@@ -14,7 +14,6 @@ hero_darken: true
 
 Please note that while registration is free, F2F attendees will need to cover their own travel, food and accommodation costs. See the [Venue page](/venue/) for food and accommodation prices.
 
-<div class="mt-4 side mr-4"><a href="" target="_blank" class="button special">Register for F2F attendance</a></div>
 <div class="mt-4 side mb-4"><a href="https://elixir-events.eventscase.com/attendance/event/index/44146/EN" target="_blank" class="button special">Register for virtual attendance</a></div>
 
 
