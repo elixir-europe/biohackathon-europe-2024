@@ -21,10 +21,6 @@ hero_darken: true
     </thead>
     <tbody>
       <tr>
-        <td>1</td>
-        <td><a href="https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/1.md">Accelerate your bioinformatics workflows with CGG AI Cloud</a></td>
-      </tr>
-      <tr>
         <td>2</td>
         <td><a href="https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/2.md">A curated assessment of metadata descriptors of AI-ready datasets</a></td>
       </tr>
