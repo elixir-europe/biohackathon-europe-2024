@@ -140,7 +140,7 @@ hero_darken: true
     </tr>
     <tr>
         <td class="has-text-weight-bold">9:00-10:30</td>
-        <td>Project reporting - goals and challenges</td>
+        <td>Project reporting – goals and challenges</td>
         <td>Plenary – EarthWorks</td>
     </tr>
     <tr>
