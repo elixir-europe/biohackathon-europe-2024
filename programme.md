@@ -76,7 +76,7 @@ hero_darken: true
         <td>Plenary – EarthWorks</td>
     </tr>
     <tr>
-        <td class="has-text-weight-bold">9:00-10:30</td>
+        <td class="has-text-weight-bold">9:45-10:30</td>
         <td>Hacking</td>
         <td>Breakout rooms</td>
     </tr>
