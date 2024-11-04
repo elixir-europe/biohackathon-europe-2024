@@ -112,8 +112,8 @@ hero_darken: true
     </tr>
     <tr>
         <td class="has-text-weight-bold">16:00-17:30</td>
-        <td>Project reporting - goals and challenges</td>
-        <td>Plenary – EarthWorks</td>
+        <td>Hacking</td>
+        <td>Breakout rooms</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">17:30-19:00</td>
@@ -140,8 +140,8 @@ hero_darken: true
     </tr>
     <tr>
         <td class="has-text-weight-bold">9:00-10:30</td>
-        <td>Hacking</td>
-        <td>Breakout rooms</td>
+        <td>Project reporting - goals and challenges</td>
+        <td>Plenary – EarthWorks</td>
     </tr>
     <tr>
         <td class="has-text-weight-bold">10:30-11:00</td>
