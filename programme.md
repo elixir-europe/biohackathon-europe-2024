@@ -71,6 +71,11 @@ hero_darken: true
         <td>Restaurant – Raiz</td>
     </tr>
     <tr>
+        <td class="has-text-weight-bold">9:00-9:45</td>
+        <td>Short project introductions</td>
+        <td>Plenary – EarthWorks</td>
+    </tr>
+    <tr>
         <td class="has-text-weight-bold">9:00-10:30</td>
         <td>Hacking</td>
         <td>Breakout rooms</td>
