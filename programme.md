@@ -127,7 +127,7 @@ hero_darken: true
     </tr>
     <tr>
         <td class="has-text-weight-bold">20:30 onwards</td>
-        <td>Social activity – fire pits</td>
+        <td>Social activity – fire pits and marshmallows</td>
         <td></td>
     </tr>
     <tr class="has-background-grey-darker">
@@ -243,7 +243,7 @@ hero_darken: true
     </tr>
     <tr>
         <td class="has-text-weight-bold">20:30 onwards</td>
-        <td>Social activity – table tennis and foosball</td>
+        <td>Social activity – table tennis, foosball and pool tournaments</td>
         <td></td>
     </tr>
     <tr class="has-background-grey-darker">
