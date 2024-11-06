@@ -10,9 +10,9 @@ hero_darken: true
 
 ## Participant registration
 
-**Registration for BioHackathon Europe 2024 is open but face-to-face (F2F) attendance places are full. You can still register for virtual participation until Wednesday 30 October at 12:00 CET.** 
+**Registration for BioHackathon Europe 2024 is now closed.** 
 
-Please note that while registration is free, F2F attendees will need to cover their own travel, food and accommodation costs. See the [Venue page](/venue/) for food and accommodation prices.
+Please note that while registration is free, F2F attendees need to cover their own travel, food and accommodation costs. See the [Venue page](/venue/) for food and accommodation prices.
 
 
 BioHackathon Europe has limited space for face-to-face participation. The registration is based on a first-come, first-served basis.
